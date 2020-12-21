@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  CustomButton
 //
-//  Created by ACN-LPT279 on 12/12/20.
+//  Created by Chris Nie on 12/12/20.
 //  Copyright © 2020 JINGNIE. All rights reserved.
 //
 
