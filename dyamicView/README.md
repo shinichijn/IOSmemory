@@ -12,7 +12,7 @@ Set equal width to frame view.
 Step 4:
 Height of this content view will be according to the number of views added to the view. let say if you added last view is one label and his Y position is 420 and height is 20 then your content view will be 440.
 
-
+test
 
 For old version
 
